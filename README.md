@@ -1,4 +1,4 @@
-# 🚀 Python Fast Translation API (Google Translate Alternative)
+# 🚀 Python Fast Translation API
 
 A simple, fast, and reliable Python wrapper for the **Ultimate Translation API**.  
 Translate text between **120+ languages** with automatic language detection.
@@ -25,6 +25,7 @@ Translate text between **120+ languages** with automatic language detection.
 
 ## 🔑 Get Your API Key
 You need an API key to use this library. You can get a **FREE** key from RapidAPI:
+
 👉 **[Click here to get your API Key](https://rapidapi.com/kaptancan0707/api/translation-api18)**
 
 ## 💻 Usage Example
