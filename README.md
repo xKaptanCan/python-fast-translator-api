@@ -16,7 +16,7 @@ Translate text between **120+ languages** with automatic language detection.
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/xKaptanCan/python-fast-translator-api.git](https://github.com/xKaptanCan/python-fast-translator-api.git)
+    git clone https://github.com/xKaptanCan/python-fast-translator-api.git
     ```
 2.  Install requirements:
     ```bash
@@ -41,4 +41,5 @@ client = TranslationClient(api_key)
 response = client.translate("Hello world", target_lang="tr")
 
 print(response['data']['translatedText']) 
+
 # Output: "Merhaba dünya"
